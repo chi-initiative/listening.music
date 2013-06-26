@@ -207,7 +207,8 @@ pre{
 	fill:rgba(77,169,68,0.1)
 }
 .color0 .line{
-	stroke:#3880aa
+	stroke:rgba(65,19,192,0.4);
+	stroke-width:25px;
 }
 .color0 rect,
 .color0 circle{
